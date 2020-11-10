@@ -1,6 +1,2 @@
 this is bekir's first project. way to go beko!
 
-
--ls
-ctrl-d
-Ctrl-d
